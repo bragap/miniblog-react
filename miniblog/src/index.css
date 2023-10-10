@@ -65,7 +65,7 @@ textarea::placeholder {
 }
 
 .btn {
-  background-color: #1a8918;
+  background-color: #113946;
   color: #fff;
   text-align: center;
   cursor: pointer;
@@ -91,7 +91,7 @@ textarea::placeholder {
 }
 
 .btn:hover {
-  background-color: #0f730c;
+  background-color: #1d5e74;
   color: #fff;
 }
 
