@@ -1,0 +1,23 @@
+.about{
+    text-align: center;
+    display: flex;
+    flex-direction:column ;
+    align-items: center;
+    user-select: none;
+}
+
+.about p{
+    color: #AAA;
+    margin-bottom: 2em;
+}
+
+.about a{
+    display: block;
+    margin-top: 15px;
+    padding: 10px 15px;
+}
+.about span {
+    background-color: #113946;
+    color: white;
+    padding: 5px;
+}
