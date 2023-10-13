@@ -32,7 +32,6 @@ function Register() {
 
     const res = await createUser(user);
 
-    console.log(res);
   };
 
   useEffect(() => {
