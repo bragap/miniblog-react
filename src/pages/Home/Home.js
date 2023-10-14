@@ -4,7 +4,7 @@ import styles from './Home.module.css'
 //hooks 
 import { useNavigate, Link } from 'react-router-dom'
 import { useState } from 'react'
-import { useFetchDocumentos } from '../../hooks/useFetchDocuments'
+import { useFetchDocumentos } from '../../hooks/useFetchDocumentos'
 
 // componentes
 import PostDetail from '../../components/PostDetail/PostDetail'
@@ -36,7 +36,7 @@ const Home = () => {
           placeholder="Ou busque por tags..."
           onChange={(e) => setQuery(e.target.value)}
         />
-        <button className="btn btn-dark">Pesquisar</button>
+        <button className="btn">Pesquisar</button>
       </form>
       <div className="post-list">
         {loading && <p>Carregando...</p>}

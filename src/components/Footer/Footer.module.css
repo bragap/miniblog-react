@@ -1,14 +1,9 @@
-.footer {
-    position: fixed;
-    bottom: 0;
-    width: 100%;	
+  .footer {
+    color:white;
+    height: 250px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     background-color: #113946;
-    color: white;
-    user-select: none;
-    padding: 0 auto;
-    font-size: 0.9em;
   }

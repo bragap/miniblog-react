@@ -1,5 +1,5 @@
 body {
-  background-color: #f6fcff;
+  background-color: #EEEEEE;
   padding: 0;
   margin: 0;
   font-family: "Montserrat", sans-serif;
@@ -24,7 +24,7 @@ nav button {
   transition: 0.4s;
   font-size: 1em;
   cursor: pointer;
-  font-family: "Montserrat", sans-seri;
+  font-family: "Montserrat", sans-serif;
 }
 
 a:hover,
@@ -78,15 +78,16 @@ textarea::placeholder {
 }
 
 .btn.btn-dark {
-  background-color: #000;
+  background-color: #113946;
   border-radius: 0;
 }
 
 .btn.btn-outline {
-  background-color: transparent;
+  background-color: #113946;
   border-radius: 0;
-  color: #000;
+  color: #fff;
   border: 1px solid #000;
+  border-radius: 8px;
   padding: 7px 30px;
 }
 
@@ -96,7 +97,7 @@ textarea::placeholder {
 }
 
 .btn.btn-outline:hover {
-  background-color: #000;
+  background-color: #1d5e74;
 }
 
 .btn.btn-danger:hover {
