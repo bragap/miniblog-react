@@ -11,4 +11,4 @@
 - Estados de Erros e Estados de Loading
 
 #### Aplicação hospedada no Vercel
-##### Link de acesso para a aplicação: https://miniblog-react-one.vercel.app/
+##### Link de acesso para a aplicação: https://miniblog-react-kohl.vercel.app/
